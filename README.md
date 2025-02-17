@@ -3,6 +3,7 @@
 # Ayush Raj
 🎓 **Final Year Undergraduate**  
 📍 **Department of Economic Sciences, IIT Kanpur** 
+🌐 [Portfolio](https://portfolio-eta-nine-88.vercel.app/)
 
 ---
 
