@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-# Ayush Raj 🌐 [Portfolio](https://portfolio-eta-nine-88.vercel.app/)
+# [Ayush Raj](https://portfolio-eta-nine-88.vercel.app/)
 🎓 **Final Year Undergraduate**  
 📍 **Department of Economic Sciences, IIT Kanpur** 
 ---
